@@ -1,0 +1,607 @@
+{
+	"folder_history":
+	[
+		"/Users/admin/Desktop/jujinggonghs",
+		"/Users/admin/Desktop/awesome-project"
+	],
+	"last_version": 3126,
+	"last_window_id": 97,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 888.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"creat",
+						"net._createServerHandle(address, port, addressType, fd);"
+					],
+					[
+						"var",
+						"require\tvar x = require('x')"
+					],
+					[
+						"cons",
+						"console"
+					],
+					[
+						"proto",
+						"PropTypes.oneOf"
+					],
+					[
+						"rcc",
+						"rncc\tCreate react-native Class"
+					],
+					[
+						"r",
+						"rncc\tCreate react-native Class"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/ESLint/ESLint.sublime-build",
+							""
+						],
+						[
+							"Packages/User/node.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/node.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "in",
+				"selected_items":
+				[
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 485.0
+			},
+			"console":
+			{
+				"height": 167.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/Nodejs/Nodejs.sublime-settings",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+				"/Users/admin/Desktop/NodeJS/sever.js",
+				"/Users/admin/Desktop/V2/sever.js",
+				"/Users/admin/Desktop/房车源码/find_car/car_personal.html",
+				"/Users/admin/Desktop/房车源码/find_car/common/good_find_car_info.html",
+				"/Users/admin/Desktop/404.html",
+				"/Users/admin/Desktop/oo.html",
+				"/Users/admin/Desktop/ajax.js",
+				"/Users/admin/Desktop/a.txt",
+				"/Users/admin/Desktop/a.sh",
+				"/Users/admin/Desktop/xt.sh",
+				"/Users/admin/Desktop/index.html",
+				"/Users/admin/Desktop/jujinggonghs/index.html",
+				"/Users/admin/Desktop/untitled.js",
+				"/Users/admin/Desktop/re.html",
+				"/Users/admin/Desktop/jujinggonghs/about.html",
+				"/Users/admin/Library/Developer/CoreSimulator/Devices/49F07396-A295-4115-9120-067EC3A30542/data/Containers/Data/Application/7AE02FC1-BFE5-4D56-AED6-EC395AB92265/Documents/xiatian.a",
+				"/Users/admin/Desktop/jquery.min.js",
+				"/jquery.min.js",
+				"/Users/admin/Desktop/cs.js",
+				"/Users/admin/Desktop/my-app/src/index.js",
+				"/Users/admin/Desktop/my-app/src/App.js",
+				"/Users/admin/Desktop/my-app/build/index.html",
+				"/Users/admin/Desktop/my-app/build/service-worker.js",
+				"/Users/admin/Desktop/未命名文件夹/AwesomeProject/android/local.properties",
+				"/Users/admin/Desktop/未命名文件夹/AwesomeProject/android/gradle.properties",
+				"/Users/admin/my-project/index.html",
+				"/Users/admin/Desktop/awesome-project/src/untitled.html",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/User/JS.sublime-build",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/User/untitled.sublime-build",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/User/node.sublime-build",
+				"/Users/admin/Library/Mobile Documents/com~apple~CloudDocs/JS学习代码/js的原型.js",
+				"/Users/admin/Desktop/未命名文件夹/AwesomeProject/node_modules/react-native-sk-countdown/CountDownText.js",
+				"/Users/admin/Desktop/内蒙H5页面/宾馆住宿/js/Convenience_notice.js",
+				"/Users/admin/Desktop/内蒙H5页面/宾馆住宿/js/AdvertisementManagement.js",
+				"/Users/admin/Desktop/内蒙H5页面/宾馆住宿/订单管理/Order details.html",
+				"/Users/admin/Desktop/es6.js",
+				"/Users/admin/Desktop/Crash/untitled.crash",
+				"/untitled.crash",
+				"/untitled。crash",
+				"/untitled"
+			],
+			"find":
+			{
+				"height": 29.0
+			},
+			"find_in_files":
+			{
+				"height": 99.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"console.log",
+					"聚镜供货商",
+					"update",
+					"script",
+					"s c r"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 29.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 556.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.nodejs":
+			{
+				"height": 335.0
+			},
+			"pinned_build_system": "Packages/User/JS.sublime-build",
+			"replace":
+			{
+				"height": 54.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 184.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1387.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"creat",
+						"net._createServerHandle(address, port, addressType, fd);"
+					],
+					[
+						"var",
+						"require\tvar x = require('x')"
+					],
+					[
+						"cons",
+						"console"
+					],
+					[
+						"proto",
+						"PropTypes.oneOf"
+					],
+					[
+						"rcc",
+						"rncc\tCreate react-native Class"
+					],
+					[
+						"r",
+						"rncc\tCreate react-native Class"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/admin/Desktop/NodeJS/sever.js",
+					"settings":
+					{
+						"buffer_size": 180,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/admin/Library/Application Support/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 32,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/ESLint/ESLint.sublime-build",
+							""
+						],
+						[
+							"Packages/User/node.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/node.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "in",
+				"selected_items":
+				[
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 485.0
+			},
+			"console":
+			{
+				"height": 167.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/Nodejs/Nodejs.sublime-settings",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+				"/Users/admin/Desktop/NodeJS/sever.js",
+				"/Users/admin/Desktop/V2/sever.js",
+				"/Users/admin/Desktop/房车源码/find_car/car_personal.html",
+				"/Users/admin/Desktop/房车源码/find_car/common/good_find_car_info.html",
+				"/Users/admin/Desktop/404.html",
+				"/Users/admin/Desktop/oo.html",
+				"/Users/admin/Desktop/ajax.js",
+				"/Users/admin/Desktop/a.txt",
+				"/Users/admin/Desktop/a.sh",
+				"/Users/admin/Desktop/xt.sh",
+				"/Users/admin/Desktop/index.html",
+				"/Users/admin/Desktop/jujinggonghs/index.html",
+				"/Users/admin/Desktop/untitled.js",
+				"/Users/admin/Desktop/re.html",
+				"/Users/admin/Desktop/jujinggonghs/about.html",
+				"/Users/admin/Library/Developer/CoreSimulator/Devices/49F07396-A295-4115-9120-067EC3A30542/data/Containers/Data/Application/7AE02FC1-BFE5-4D56-AED6-EC395AB92265/Documents/xiatian.a",
+				"/Users/admin/Desktop/jquery.min.js",
+				"/jquery.min.js",
+				"/Users/admin/Desktop/cs.js",
+				"/Users/admin/Desktop/my-app/src/index.js",
+				"/Users/admin/Desktop/my-app/src/App.js",
+				"/Users/admin/Desktop/my-app/build/index.html",
+				"/Users/admin/Desktop/my-app/build/service-worker.js",
+				"/Users/admin/Desktop/未命名文件夹/AwesomeProject/android/local.properties",
+				"/Users/admin/Desktop/未命名文件夹/AwesomeProject/android/gradle.properties",
+				"/Users/admin/my-project/index.html",
+				"/Users/admin/Desktop/awesome-project/src/untitled.html",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/User/JS.sublime-build",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/User/untitled.sublime-build",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/User/node.sublime-build",
+				"/Users/admin/Library/Mobile Documents/com~apple~CloudDocs/JS学习代码/js的原型.js",
+				"/Users/admin/Desktop/未命名文件夹/AwesomeProject/node_modules/react-native-sk-countdown/CountDownText.js",
+				"/Users/admin/Desktop/内蒙H5页面/宾馆住宿/js/Convenience_notice.js",
+				"/Users/admin/Desktop/内蒙H5页面/宾馆住宿/js/AdvertisementManagement.js",
+				"/Users/admin/Desktop/内蒙H5页面/宾馆住宿/订单管理/Order details.html",
+				"/Users/admin/Desktop/es6.js",
+				"/Users/admin/Desktop/Crash/untitled.crash",
+				"/untitled.crash",
+				"/untitled。crash",
+				"/untitled"
+			],
+			"find":
+			{
+				"height": 29.0
+			},
+			"find_in_files":
+			{
+				"height": 99.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"console.log",
+					"聚镜供货商",
+					"update",
+					"script",
+					"s c r"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/admin/Desktop/NodeJS/sever.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 180,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/admin/Library/Application Support/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 32,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										29,
+										29
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScriptNext - ES6 Syntax/JSON (JavaScriptNext).tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 29.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 556.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.nodejs":
+			{
+				"height": 335.0
+			},
+			"pinned_build_system": "Packages/User/JS.sublime-build",
+			"position": "0 415 117 1387 910 0 0 1920 1057 ",
+			"project": "",
+			"replace":
+			{
+				"height": 54.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 184.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 97,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
