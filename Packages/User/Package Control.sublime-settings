@@ -5,6 +5,9 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
+		"auto-save",
+		"Boxy Theme",
 		"Emmet",
 		"Emmet Css Snippets",
 		"HTML Snippets",
@@ -17,6 +20,7 @@
 		"Package Control",
 		"SideBarEnhancements",
 		"Simple JSX",
+		"SublimeCodeIntel",
 		"SublimeLinter",
 		"Terminal",
 		"TerminalView"
