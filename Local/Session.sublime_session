@@ -1,15 +1,16 @@
 {
 	"folder_history":
 	[
+		"/Users/admin/Desktop/NodeJS",
 		"/Users/admin/Desktop/jujinggonghs",
 		"/Users/admin/Desktop/awesome-project"
 	],
 	"last_version": 3126,
-	"last_window_id": 93,
+	"last_window_id": 98,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 888.0,
+		"new_window_height": 976.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -17,12 +18,44 @@
 				"selected_items":
 				[
 					[
-						"creat",
-						"net._createServerHandle(address, port, addressType, fd);"
+						"fs",
+						"fs.open"
+					],
+					[
+						"l",
+						"log\tJS - Log to console"
+					],
+					[
+						"on",
+						"emitter.on"
+					],
+					[
+						"readStr",
+						"fs.ReadStream(path, options);"
+					],
+					[
+						"readStream",
+						"fs.createReadStream(path, options);"
 					],
 					[
 						"var",
-						"require\tvar x = require('x')"
+						"var"
+					],
+					[
+						"con",
+						"console.log"
+					],
+					[
+						"para",
+						"zlib.params"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"creat",
+						"net._createServerHandle(address, port, addressType, fd);"
 					],
 					[
 						"cons",
@@ -73,6 +106,14 @@
 						"Package Control: Install Package"
 					],
 					[
+						"re",
+						"Package Control: Remove Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
 						"insta",
 						"Package Control: Install Package"
 					]
@@ -97,8 +138,21 @@
 			},
 			"file_history":
 			[
-				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
-				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/admin/Desktop/NodeJS/sever.js",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-mousemap",
+				"/Users/admin/Desktop/NodeJS/ajax.js",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/CTags/Default.sublime-mousemap",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/CTags/CTags.sublime-settings",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/User/CTags.sublime-settings",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/JCShell Tools/README.md",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/TerminalView/README.md",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/Terminality/README.md",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/Emmet/Default (OSX).sublime-keymap",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/All Autocomplete/All Autocomplete.sublime-settings",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/Nodejs/Nodejs.sublime-settings",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
 				"/Users/admin/Desktop/V2/sever.js",
 				"/Users/admin/Desktop/房车源码/find_car/car_personal.html",
 				"/Users/admin/Desktop/房车源码/find_car/common/good_find_car_info.html",
@@ -141,7 +195,7 @@
 			],
 			"find":
 			{
-				"height": 29.0
+				"height": 37.0
 			},
 			"find_in_files":
 			{
@@ -155,6 +209,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"Show Definition",
 					"console.log",
 					"聚镜供货商",
 					"update",
@@ -176,16 +231,16 @@
 			},
 			"incremental_find":
 			{
-				"height": 29.0
+				"height": 37.0
 			},
 			"input":
 			{
-				"height": 0.0
+				"height": 37.0
 			},
 			"menu_visible": true,
 			"output.exec":
 			{
-				"height": 556.0
+				"height": 31.0
 			},
 			"output.find_results":
 			{
@@ -194,6 +249,10 @@
 			"output.nodejs":
 			{
 				"height": 335.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 31.0
 			},
 			"pinned_build_system": "Packages/User/JS.sublime-build",
 			"replace":
@@ -229,16 +288,16 @@
 				"width": 0.0
 			},
 			"show_minimap": true,
-			"show_open_files": false,
+			"show_open_files": true,
 			"show_tabs": true,
-			"side_bar_visible": false,
+			"side_bar_visible": true,
 			"side_bar_width": 184.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 1387.0
+		"new_window_width": 1344.0
 	},
 	"windows":
 	[
@@ -248,12 +307,44 @@
 				"selected_items":
 				[
 					[
-						"creat",
-						"net._createServerHandle(address, port, addressType, fd);"
+						"fs",
+						"fs.open"
+					],
+					[
+						"l",
+						"log\tJS - Log to console"
+					],
+					[
+						"on",
+						"emitter.on"
+					],
+					[
+						"readStr",
+						"fs.ReadStream(path, options);"
+					],
+					[
+						"readStream",
+						"fs.createReadStream(path, options);"
 					],
 					[
 						"var",
-						"require\tvar x = require('x')"
+						"var"
+					],
+					[
+						"con",
+						"console.log"
+					],
+					[
+						"para",
+						"zlib.params"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"creat",
+						"net._createServerHandle(address, port, addressType, fd);"
 					],
 					[
 						"cons",
@@ -279,7 +370,7 @@
 					"file": "/Users/admin/Desktop/NodeJS/sever.js",
 					"settings":
 					{
-						"buffer_size": 180,
+						"buffer_size": 1399,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
@@ -317,11 +408,19 @@
 						"Package Control: Install Package"
 					],
 					[
+						"re",
+						"Package Control: Remove Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
 						"insta",
 						"Package Control: Install Package"
 					]
 				],
-				"width": 602.0
+				"width": 485.0
 			},
 			"console":
 			{
@@ -339,8 +438,29 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
+			"expanded_folders":
+			[
+				"/Users/admin/Desktop/NodeJS"
+			],
 			"file_history":
 			[
+				"/Users/admin/Desktop/NodeJS/package.json",
+				"/Users/admin/Desktop/NodeJS/package-lock.json",
+				"/Users/admin/Desktop/NodeJS/sever.js",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-mousemap",
+				"/Users/admin/Desktop/NodeJS/ajax.js",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/CTags/Default.sublime-mousemap",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/CTags/CTags.sublime-settings",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/User/CTags.sublime-settings",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/JCShell Tools/README.md",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/TerminalView/README.md",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/Terminality/README.md",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/Emmet/Default (OSX).sublime-keymap",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/All Autocomplete/All Autocomplete.sublime-settings",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/Nodejs/Nodejs.sublime-settings",
+				"/Users/admin/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
 				"/Users/admin/Desktop/V2/sever.js",
 				"/Users/admin/Desktop/房车源码/find_car/car_personal.html",
 				"/Users/admin/Desktop/房车源码/find_car/common/good_find_car_info.html",
@@ -397,6 +517,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"Show Definition",
 					"console.log",
 					"聚镜供货商",
 					"update",
@@ -416,6 +537,12 @@
 				"whole_word": false,
 				"wrap": true
 			},
+			"folders":
+			[
+				{
+					"path": "/Users/admin/Desktop/NodeJS"
+				}
+			],
 			"groups":
 			[
 				{
@@ -428,15 +555,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 180,
+								"buffer_size": 1399,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										180,
-										180
+										193,
+										193
 									]
 								],
 								"settings":
@@ -459,7 +586,7 @@
 			},
 			"input":
 			{
-				"height": 0.0
+				"height": 37.0
 			},
 			"layout":
 			{
@@ -486,7 +613,7 @@
 			"menu_visible": true,
 			"output.exec":
 			{
-				"height": 556.0
+				"height": 31.0
 			},
 			"output.find_results":
 			{
@@ -494,10 +621,14 @@
 			},
 			"output.nodejs":
 			{
-				"height": 335.0
+				"height": 212.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 31.0
 			},
 			"pinned_build_system": "Packages/User/JS.sublime-build",
-			"position": "0 618 -257 1387 910 0 0 1920 1057 ",
+			"position": "0 82 -21 1344 998 0 0 1920 1057 ",
 			"project": "",
 			"replace":
 			{
@@ -536,7 +667,7 @@
 			{
 			},
 			"show_minimap": true,
-			"show_open_files": false,
+			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
 			"side_bar_width": 184.0,
@@ -544,7 +675,7 @@
 			"template_settings":
 			{
 			},
-			"window_id": 91,
+			"window_id": 98,
 			"workspace_name": ""
 		}
 	],

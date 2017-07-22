@@ -1,0 +1,1 @@
+{"dependencies": [], "description": "A Sublime Text 3 plugin for requiring modules.", "version": "1.1.1", "sublime_text": "*", "platforms": ["*"], "url": "https://github.com/ganemone/NodeRequirer"}
