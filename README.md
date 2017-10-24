@@ -1,4 +1,7 @@
 # sublime-setting
+sublime text3 需要先装好Package Control
+
+
 ### SublimeCodeIntel插件需要配置（OS X）：
 - 前往文件夹：~/.codeintel/
 - 新建config.log文件
