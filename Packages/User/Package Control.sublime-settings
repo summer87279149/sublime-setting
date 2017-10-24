@@ -10,19 +10,24 @@
 		"Boxy Theme",
 		"Emmet",
 		"Emmet Css Snippets",
+		"Express Completion",
+		"ExpressComplete",
 		"HTML Snippets",
 		"JavaScript & NodeJS Snippets",
 		"JavaScriptNext - ES6 Syntax",
 		"JsFormat",
+		"Mongoose CoffeeScript",
 		"Node Completions",
 		"Nodejs",
 		"NodeRequirer",
 		"Package Control",
+		"SFTP",
 		"SideBarEnhancements",
 		"Simple JSX",
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"Terminal",
-		"TerminalView"
+		"TerminalView",
+		"VueFormatter"
 	]
 }
